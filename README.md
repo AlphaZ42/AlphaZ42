@@ -18,20 +18,19 @@ Développeur autodidacte passionné d'IA et d'accessibilité, je développe actu
 > *Revolutionary AI-powered cognitive assistance platform*
 
 **Architecture Components:**
-- 🧠 **Alpha-Z Primordial**: Central consciousness with 120+ neural agents
-- 🧾 **DocFlow-Z**: Intelligent document processing (12 specialized agents)
-- 📊 **Matrix-Z**: Data organization & access
-- 🔄 **Context-Z**: Conversational context management  
-- ⏰ **Chrono-Z**: Adaptive temporal management
-- 📱 **Synaps-Z**: Neuroadaptive mobile interface *(École 42 project)*
+- 🧠 **Alpha-Z Primordial**: Central orchestrator with micro-agents architecture
+- 🔵 **CORE Family**: 10 fundamental agents (Auth, Parser, Router, Memory...)
+- 🟡 **BTP Family**: 15 construction agents (Project, Material, Budget, Safety...)
+- 🟣 **COMMUNICATION Family**: 12 social interface agents *(planned)*
+- 🔴 **HEALTH Family**: 10 cognitive wellness agents *(planned)*
 
 **Tech Stack:**
-- 🐍 Python + FastAPI microservices
-- 🥧 Raspberry Pi + Cloud deployment
-- 🤖 Multi-engine OCR (Tesseract, PaddleOCR)
-- 🐧 Redis Streams + PostgreSQL + MinIO
-- ⚛️ React + TypeScript (PWA)
-- 🧠 Biomimetic agent surveillance hierarchy
+- 🐍 Python + FastAPI micro-services architecture
+- 🥧 Raspberry Pi + Cloud deployment ready
+- 🧠 Micro-agents (25-80 lines each) + JSON communication
+- 🐧 Debian GNU/Linux + containerization
+- ⚛️ React + TypeScript (PWA capabilities)
+- 🏗️ BTP specialization + e-learning innovation
 
 ---
 
@@ -69,12 +68,12 @@ Développeur autodidacte passionné d'IA et d'accessibilité, je développe actu
 
 ### 🎯 **Expertise Areas**
 ```
-🧠 Biomimetic Neural Architecture   ████████████████████ 100%
-🏗️ Multi-Agent Systems            ████████████████████ 100%  
-🤖 AI API Integration             ████████████████░░░░  80%
-🐍 Python + FastAPI Development  ████████████░░░░░░░░  60%
-🔧 System Administration         ████████████░░░░░░░░  60%
-📱 Modern UI/UX (React/TS)       ██████████░░░░░░░░░░  50%
+🧠 Micro-Agents Architecture        ████████████████████ 100%
+🏗️ Construction + Tech Integration  ████████████████████ 100%  
+🤖 AI System Design                ████████████████░░░░  80%
+🐍 Python + FastAPI Development    ████████████░░░░░░░░  60%
+🔧 System Administration           ████████████░░░░░░░░  60%
+📱 Modern UI/UX (React/TS)         ██████████░░░░░░░░░░  50%
 ```
 
 ---
@@ -114,12 +113,12 @@ Impact: Streamlined client onboarding
 ## 📈 Development Journey | Parcours de Développement
 
 ### 🎯 **2025 Milestones**
-- ✅ Alpha-Z neuronal architecture (120+ agents)
-- ✅ DocFlow-Z V2.0 complete refactor
-- ✅ Multi-agent communication system
-- ✅ Biomimetic surveillance hierarchy
-- 🔄 École 42 presentation (BTP + Family specializations)
-- 📅 Production deployment & SME pilot testing *(Q4 2025)*
+- ✅ Alpha-Z micro-agents architecture (15 operational, target 60+)
+- ✅ BTP specialization with 15 construction agents
+- ✅ Multi-agent JSON communication system
+- ✅ CRIC Pau validation ("exceptional results")
+- 🔄 École 42 admission process (meeting pending)
+- 🔍 Site evaluation for future e-learning center *(research phase)*
 
 ### 🚀 **Learning Path**
 ```mermaid
@@ -155,20 +154,22 @@ Building an AI ecosystem where technology truly serves human diversity, enabling
 
 ---
 
-## 💡 Current Status | Statut Actuel
+## 🎯 Current Status | Statut Actuel
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Matthieu HUFFSCHMITT"
-        self.role = "AI Developer in Career Transition"
+        self.role = "Micro-Agents AI Architect & BTP Innovation"
         self.location = "Sud Landes, France"
-        self.current_focus = ["Alpha-Z Core", "AI Integration", "Accessibility"]
-        self.learning = ["No-Code Development", "Product Management"]
-        self.looking_for = ["Collaboration", "Feedback", "Innovation Partners"]
+        self.current_focus = ["Alpha-Z Core", "BTP Specialization", "École 42"]
+        self.agents_operational = 15
+        self.target_agents = "60+ across 4 families"
+        self.unique_value = "Construction + Tech + Neurodivergent perspective"
+        self.looking_for = ["École 42 Collaboration", "BTP Partners", "Innovation"]
     
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build the future of AI together! 🚀")
+        print("Building the future of personalized AI, one micro-agent at a time! 🚀")
 
 me = Developer()
 me.say_hi()
