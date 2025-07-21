@@ -18,19 +18,20 @@ Développeur autodidacte passionné d'IA et d'accessibilité, je développe actu
 > *Revolutionary AI-powered cognitive assistance platform*
 
 **Architecture Components:**
-- 🔮 **Alpha-Z Primordial**: Central coordination hub
+- 🧠 **Alpha-Z Primordial**: Central consciousness with 120+ neural agents
+- 🧾 **DocFlow-Z**: Intelligent document processing (12 specialized agents)
 - 📊 **Matrix-Z**: Data organization & access
 - 🔄 **Context-Z**: Conversational context management  
 - ⏰ **Chrono-Z**: Adaptive temporal management
-- 📝 **DocFlow-Z**: Intelligent document management
-- 📱 **Synaps-Z**: Neuroadaptive mobile interface *(planned)*
+- 📱 **Synaps-Z**: Neuroadaptive mobile interface *(École 42 project)*
 
 **Tech Stack:**
-- 🐍 Python development
-- 🥧 Raspberry Pi deployment
-- 🤖 AI API integration (OpenAI, Claude)
-- 🐧 Debian GNU/Linux systems
-- 🔗 Multi-agent architecture
+- 🐍 Python + FastAPI microservices
+- 🥧 Raspberry Pi + Cloud deployment
+- 🤖 Multi-engine OCR (Tesseract, PaddleOCR)
+- 🐧 Redis Streams + PostgreSQL + MinIO
+- ⚛️ React + TypeScript (PWA)
+- 🧠 Biomimetic agent surveillance hierarchy
 
 ---
 
@@ -68,26 +69,36 @@ Développeur autodidacte passionné d'IA et d'accessibilité, je développe actu
 
 ### 🎯 **Expertise Areas**
 ```
-🧠 Cognitive Assistance Systems    ████████████████████ 100%
-🔄 Multi-Agent Architecture       ███████████████░░░░░  75%
-🤖 AI API Integration            ████████████████░░░░  80%
-🐍 Python Development           ███████░░░░░░░░░░░░░  35%
-🔧 System Administration        ████████████░░░░░░░░  60%
-📱 UI/UX for Accessibility      ██████████░░░░░░░░░░  50%
+🧠 Biomimetic Neural Architecture   ████████████████████ 100%
+🏗️ Multi-Agent Systems            ████████████████████ 100%  
+🤖 AI API Integration             ████████████████░░░░  80%
+🐍 Python + FastAPI Development  ████████████░░░░░░░░  60%
+🔧 System Administration         ████████████░░░░░░░░  60%
+📱 Modern UI/UX (React/TS)       ██████████░░░░░░░░░░  50%
 ```
 
 ---
 
 ## 🎯 Featured Projects | Projets Phares
 
-### 🌟 **Alpha-Z Core** *(In Development)*
+### 🌟 **Alpha-Z Core Ecosystem** *(Active Development)*
 ```yaml
-Description: Personalized AI ecosystem for neurodivergent profiles
-Status: Active Development (Initial Phase)
-Architecture: Multi-agent system with central coordination
-Deployment: Raspberry Pi 4 + Debian GNU/Linux
-Integration: OpenAI API, GenSpark API
-Innovation: Neuroadaptive interface design
+Description: Complete artificial brain with 120+ neural agents
+Status: Multi-project ecosystem (Advanced Phase)
+Architecture: Neuronal hierarchy with consciousness simulation
+Components: DocFlow-Z, Chrono-Z, Matrix-Z, Context-Z
+Deployment: Raspberry Pi + Cloud-native microservices
+Innovation: Biomimetic neural surveillance system
+```
+
+### 🏗️ **DocFlow-Z** *(Production Ready)*
+```yaml
+Description: Intelligent document processing with agent architecture  
+Status: Complete refactor - V2.0 ready for École 42
+Architecture: 12 specialized agents (Receipt, Invoice, Contract)
+Tech Stack: FastAPI + Redis + PostgreSQL + React
+Innovation: "One Agent = One Responsibility" principle
+Market: B2B SaaS - 2.3M French SMEs target
 ```
 
 ### 🛠️ **Automated Software Installation** *(Professional)*
@@ -103,12 +114,12 @@ Impact: Streamlined client onboarding
 ## 📈 Development Journey | Parcours de Développement
 
 ### 🎯 **2025 Milestones**
-- ✅ Alpha-Z Core conceptual architecture
-- ✅ Multi-agent system implementation
-- ✅ AI API integration (OpenAI, Claude)
-- 🔄 Context management system
-- 🔄 Professional IT internship
-- 📅 No-Code bootcamp training *(planned)*
+- ✅ Alpha-Z neuronal architecture (120+ agents)
+- ✅ DocFlow-Z V2.0 complete refactor
+- ✅ Multi-agent communication system
+- ✅ Biomimetic surveillance hierarchy
+- 🔄 École 42 presentation (BTP + Family specializations)
+- 📅 Production deployment & SME pilot testing *(Q4 2025)*
 
 ### 🚀 **Learning Path**
 ```mermaid
